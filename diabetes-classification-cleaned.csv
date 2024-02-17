@@ -1,4 +1,4 @@
-Age,Gender,BMI,Blood Pressure,Fasting Blood Sugar,Hemoglobin A1c,Family History of Diabetes,Smoking,Diet,Exercise,Diagnosis
+age,gender,bmi,blood_pressure,fasting_blood_sugar,hemoglobin_a1c,family_history_of_diabetes,smoking,diet,exercise,diagnosis
 45,Male,25,Normal,100,5.7,No,No,Healthy,Regular,No
 55,Female,30,High,120,6.4,Yes,Yes,Poor,No,Yes
 65,Male,35,High,140,7.1,Yes,Yes,Poor,No,Yes
